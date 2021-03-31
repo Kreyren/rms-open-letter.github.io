@@ -1,7 +1,8 @@
 ---
-title: Statements by other organizations on the reappointment of RMS to the FSF board
+title: Statements by relevant entities on the reappointment of RMS to the FSF board
 ---
 
+### Organizations
 - [April](https://www.april.org/en/richard-stallman-back-board-free-software-foundation)
 - [Document Foundation](https://blog.documentfoundation.org/blog/2021/03/25/statement-on-rms-and-fsf/)
 - [EFF](https://www.eff.org/deeplinks/2021/03/statement-re-election-richard-stallman-fsf-board)
@@ -15,6 +16,9 @@ title: Statements by other organizations on the reappointment of RMS to the FSF 
 - [Red Hat](https://www.redhat.com/en/blog/red-hat-statement-about-richard-stallmans-return-free-software-foundation-board)
 - [Software Freedom Conservancy](https://sfconservancy.org/blog/2021/mar/23/outreachy-fsf/)
 - [Solidaires Informatique](https://solidairesinformatique.org/2021/03/30/contre-le-retour-de-stallman-pour-un-milieu-du-libre-militant-et-inclusif/)
+
+### Inviduals
+- [Kreyren](https://social.snopyta.org/@kreyren/105983297482864424)
 
 [Return to the main page][1]
 
